@@ -1,7 +1,7 @@
 variables:
-  azureSubscription: <<Connection-name-of your-ARM endpoint>>
-  resourcegroup: <<name-of-your-resource-group>>
-  location: <<location of your resources>>
+  azureSubscription: 7c87b84f-80af-4900-9ff7-9498595da5a0
+  resourcegroup: RG-Automation
+  location: East US 2
   ImageName: website
 
 steps:
